@@ -1,11 +1,17 @@
 ### <h1>Hey there 🤙</h1>
 ### Here for the fun of it. To keep learning and growing. 
 
-🌱 I’m currently working on:
-  - roadmap.sh developer road full-stack roadmap:
-<br />
+<details>
+<summary>🌱 Currently Working On</summary>
+  
+  | Projects | 
+  | :---:      |
+  | roadmap.sh    |
+  | Javascript CSWBC |    
+  
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
 
+</details>
 
 
 <!--
