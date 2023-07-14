@@ -1,4 +1,12 @@
-### Hi there 👋
+### <h1>Hey there 🤙</h1>
+### Here for the fun of it. To keep learning and growing. 
+
+🌱 I’m currently working on:
+  - roadmap.sh developer road full-stack roadmap:
+<br />
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+
+
 
 <!--
 **vjreo/vjreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
