@@ -1,17 +1,19 @@
 ### <h1>Hey there 🤙</h1>
 ### Here for the fun of it. To keep learning and growing. 
 
+<br />
+
+  Projects  | Status
+------------- | -------------
+Personal Wedding Website  | In Progress
+Family Dog Sitting App  | Not Started
+Medford Acres Neighborhood Website | Not Started
+<br />
+<div>Roadmap Tracker</div>
 <details>
-<summary>🌱 Currently Working On</summary>
-  
-  | Projects | Status |
-  | :---: |
-  | Personal Wedding Website | In Progress
-  | Family Dog Sitting Appl | Not Started
-
-Full Stack Roadmap Tracker
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
-
+<div>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
+</div>
 </details>
 
 
