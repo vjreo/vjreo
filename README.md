@@ -4,11 +4,12 @@
 <details>
 <summary>🌱 Currently Working On</summary>
   
-  | Projects | 
-  | :---:      |
-  | roadmap.sh    |
-  | Javascript CSWBC |    
-  
+  | Projects | Status |
+  | :---: |
+  | Personal Wedding Website | In Progress
+  | Family Dog Sitting Appl | Not Started
+
+Full Stack Roadmap Tracker
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
 
 </details>
