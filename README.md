@@ -9,7 +9,7 @@ Personal Wedding Website  | In Progress
 Family Dog Sitting App  | Not Started
 Medford Acres Neighborhood Website | Not Started
 <br />
-<div>Roadmap Tracker</div>
+<div><em>Roadmap Tracker</em></div>
 <details>
 <div>
   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/647de9d440cee644b285aa3d?variant=dark&roadmaps=full-stack" alt="roadmap.sh"/></a>
