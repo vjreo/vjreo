@@ -1,5 +1,5 @@
 ### <h1>Hey there 🤙</h1>
-### Here for the fun of it. To keep learning and growing. 
+### To keep learning and growing. 
 
 <br />
 
