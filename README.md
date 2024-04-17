@@ -1,4 +1,4 @@
-<h3>Have fun, keep learning 🤙</h3>
+<h3> learn and grow 🤙</h3>
 
 <!--
 **vjreo/vjreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
