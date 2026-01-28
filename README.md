@@ -1,1 +1,1 @@
-<h3> learn and grow 🤙</h3>
+<h3> get better everyday 🤙</h3>
