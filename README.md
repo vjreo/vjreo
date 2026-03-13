@@ -1,1 +1,1 @@
-<h3> always make progress 🤙</h3>
+<h3> everyday is an opportunity 🤙</h3>
