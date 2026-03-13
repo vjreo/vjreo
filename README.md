@@ -1,1 +1,1 @@
-<h3> get better everyday 🤙</h3>
+<h3> always make progress 🤙</h3>
